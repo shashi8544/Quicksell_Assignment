@@ -16,7 +16,7 @@ const GroupingSortingOptions = ({ groupBy, setGroupBy, sortOption, setSortOption
           <div>
             <label>
               Grouping:
-              <span></span>
+              <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
               <select onChange={(e) => setGroupBy(e.target.value)}>
                 <option value="status">Status</option>
                 <option value="user">User</option>
@@ -27,6 +27,7 @@ const GroupingSortingOptions = ({ groupBy, setGroupBy, sortOption, setSortOption
           <div>
             <label>
               Ordering:
+              <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
               <select onChange={(e) => setSortOption(e.target.value)}>
                 <option value="title">Title</option>
                 <option value="priority">Priority</option>
