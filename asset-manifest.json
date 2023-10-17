@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Quicksell_Assignment/static/css/main.e3f8bd2e.chunk.css",
+    "main.js": "/Quicksell_Assignment/static/js/main.08a10cbc.chunk.js",
+    "main.js.map": "/Quicksell_Assignment/static/js/main.08a10cbc.chunk.js.map",
+    "runtime~main.js": "/Quicksell_Assignment/static/js/runtime~main.e5ea59b2.js",
+    "runtime~main.js.map": "/Quicksell_Assignment/static/js/runtime~main.e5ea59b2.js.map",
+    "static/js/2.551f202f.chunk.js": "/Quicksell_Assignment/static/js/2.551f202f.chunk.js",
+    "static/js/2.551f202f.chunk.js.map": "/Quicksell_Assignment/static/js/2.551f202f.chunk.js.map",
+    "static/js/3.6c5d1d50.chunk.js": "/Quicksell_Assignment/static/js/3.6c5d1d50.chunk.js",
+    "static/js/3.6c5d1d50.chunk.js.map": "/Quicksell_Assignment/static/js/3.6c5d1d50.chunk.js.map",
+    "index.html": "/Quicksell_Assignment/index.html",
+    "precache-manifest.300cf1ecd5c2a27162d3536b91aa09ab.js": "/Quicksell_Assignment/precache-manifest.300cf1ecd5c2a27162d3536b91aa09ab.js",
+    "service-worker.js": "/Quicksell_Assignment/service-worker.js",
+    "static/css/main.e3f8bd2e.chunk.css.map": "/Quicksell_Assignment/static/css/main.e3f8bd2e.chunk.css.map"
+  }
+}
