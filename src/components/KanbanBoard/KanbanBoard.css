@@ -1,0 +1,39 @@
+
+.kanban-board {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(5%, 1fr)); 
+    gap: 20px; 
+  }
+  
+  .kanban-group-container {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+  }
+  
+  .kanban-title {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 16px;
+    margin-right: 20px;
+  }
+  
+  .kanban-cards {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .kanban-card {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .kanban-title h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
